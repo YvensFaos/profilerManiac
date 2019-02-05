@@ -1,0 +1,65 @@
+Test;1000000;100
+Using IS;4.865458
+Using IS + named variable;7.846198
+Using simple cast;7.859964
+Using AS;7.864923
+Test;1000000;200
+Using IS;4.897494
+Using IS + named variable;7.8878465
+Using simple cast;7.86482899999999
+Using AS;7.900616
+Test;1000000;300
+Using IS;4.914854
+Using IS + named variable;7.84521
+Using simple cast;7.85881766666666
+Using AS;7.860737
+Test;1000000;400
+Using IS;4.89441975
+Using IS + named variable;7.85009175
+Using simple cast;7.86465225
+Using AS;7.87262325
+Test;1000000;500
+Using IS;5.3337762
+Using IS + named variable;8.4369118
+Using simple cast;8.5304656
+Using AS;8.439997
+Test;1250000;100
+Using IS;6.105724
+Using IS + named variable;9.766376
+Using simple cast;9.812675
+Using AS;9.766844
+Test;1500000;100
+Using IS;7.317473
+Using IS + named variable;11.712425
+Using simple cast;11.782503
+Using AS;11.749293
+Test;1750000;100
+Using IS;8.556778
+Using IS + named variable;13.709716
+Using simple cast;13.682265
+Using AS;13.71174
+Test;2000000;100
+Using IS;9.716001
+Using IS + named variable;15.612805
+Using simple cast;15.647146
+Using AS;15.654726
+Test;2250000;100
+Using IS;10.962467
+Using IS + named variable;17.530595
+Using simple cast;17.574445
+Using AS;17.595195
+Test;2500000;100
+Using IS;12.172943
+Using IS + named variable;19.444343
+Using simple cast;19.504439
+Using AS;19.542615
+Test;2750000;100
+Using IS;13.350789
+Using IS + named variable;21.51397
+Using simple cast;21.450476
+Using AS;21.48585
+Test;3000000;100
+Using IS;14.617084
+Using IS + named variable;23.427662
+Using simple cast;23.56504
+Using AS;23.410148
